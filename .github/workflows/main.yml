@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  LIBERICA_URL: https://download.bell-sw.com/java/8u292+10/bellsoft-jdk8u292+10-linux-amd64-full.tar.gz
+  LIBERICA_URL: https://download.bell-sw.com/java/8u302+8/bellsoft-jdk8u302+8-linux-amd64-full.tar.gz
 
 jobs:
   build-and-test:
